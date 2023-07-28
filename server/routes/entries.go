@@ -3,7 +3,7 @@ package routes
 import (
 	"context"
 	"fmt"
-	"github.com/akhil/go-react-calorie-tracker-yt/models"
+	"github.com/1shubham7/calory-count/models"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 	"go.mongodb.org/mongo-driver/bson"
